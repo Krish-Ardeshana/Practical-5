@@ -1,0 +1,15 @@
+{
+  "events": [
+    { "title": "Tech Talk", "date": "2025-11-12", "location": "Auditorium" },
+    { "title": "Workshop", "date": "2025-12-01", "location": "Lab A" },
+    { "title": "Seminar", "date": "2025-10-30", "location": "Hall 3" }
+  ],
+  "students": [
+    { "name": "Alice Johnson", "roll": "ST001", "branch": "CSE" },
+    { "name": "Bob Smith", "roll": "ST002", "branch": "ECE" },
+    { "name": "Charlie Lee", "roll": "ST003", "branch": "ME" },
+    { "name": "Diana Roy", "roll": "ST004", "branch": "IT" },
+    { "name": "Eva Khan", "roll": "ST005", "branch": "EE" },
+    { "name": "Farhan Yadav", "roll": "ST006", "branch": "CE" }
+  ]
+}
